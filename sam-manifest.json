@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rev": "455feaa",
+  "files": [
+    "app.js",
+    "assets/face_a.png",
+    "assets/pink_body_circle.png",
+    "assets/yellow_body_circle.png",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "styles.css"
+  ]
+}
